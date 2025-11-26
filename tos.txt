@@ -1,0 +1,115 @@
+Sight – Terms of Service
+
+Last Updated: November 26, 2025
+Effective Date: November 26, 2025
+
+These Terms of Service (“Terms”) govern your access to and use of Sight (the “Bot”), a Discord bot created and operated by lOLORANGElol (Discord user identifier: 1420537388698046614) (“Developer”, “We”, “Us”, or “Our”).
+By inviting, using, or interacting with Sight, you agree to these Terms. If you do not agree, you may not use the Bot.
+
+1. Eligibility
+
+To use Sight, you must:
+
+Be at least 13 years old or meet the minimum age required by Discord’s Terms of Service in your region.
+
+Comply at all times with the Discord Terms of Service and Discord Community Guidelines.
+
+If you are a server owner or administrator, you are responsible for ensuring your server members also comply with these Terms.
+
+2. Use of the Bot
+
+You agree not to use Sight to:
+
+Violate any applicable laws or regulations.
+
+Harass, abuse, or harm others.
+
+Automate or support actions that break Discord’s rules.
+
+Attempt to exploit, reverse-engineer, or disrupt the Bot or its services.
+
+Collect data from users without their consent.
+
+We reserve the right to refuse service, remove access, or blacklist servers or users who violate these Terms.
+
+3. Data Usage
+
+Sight may collect and process limited data as required for its functionality.
+This may include:
+
+Server IDs, channel IDs, and user IDs
+
+Command usage data
+
+Configuration or moderation logs (only when explicitly configured)
+
+No sensitive personal data is intentionally collected.
+Data is not sold or shared with third parties.
+
+For more details, refer to the Privacy Policy (available upon request).
+
+4. Availability and Service Changes
+
+Sight is provided “as is” with no guarantees.
+We may modify, update, suspend, or discontinue the Bot at any time without notice, including for maintenance, improvements, or compliance reasons.
+
+We are not responsible for:
+
+Data loss
+
+Downtime
+
+Feature removal
+
+Any damages resulting from the use or inability to use the Bot
+
+5. User Responsibilities
+
+You are responsible for:
+
+Ensuring the Bot permissions given in your server are appropriate
+
+How the Bot is used within your server
+
+Informing your server members about any server-side logging or rules involving the Bot
+
+Misuse of the Bot may result in a ban from using Sight.
+
+6. Intellectual Property
+
+Sight, including its code, branding, features, and related assets, is the intellectual property of lOLORANGElol unless stated otherwise.
+You may not copy, resell, alter, or redistribute the Bot or related materials.
+
+7. Limitation of Liability
+
+To the fullest extent permitted by law, the Developer is not liable for:
+
+Indirect, incidental, or consequential damages
+
+Loss of data or server configuration
+
+Misuse by server members or administrators
+
+Behavior of third parties interacting with the Bot
+
+Your use of the Bot is at your own risk.
+
+8. Termination
+
+We may suspend or remove your access to Sight at any time, for any reason, including violations of these Terms.
+You may stop using the Bot at any time by removing it from your server.
+
+9. Changes to These Terms
+
+We may revise these Terms at any time.
+Continued use of Sight after changes are published constitutes acceptance of the updated Terms.
+
+10. Governing Law
+
+These Terms are governed by and interpreted under the laws of Germany, without regard to conflict-of-law principles.
+Any disputes shall be resolved under German legal jurisdiction.
+
+11. Contact
+
+For questions, concerns, or requests regarding Sight or these Terms, please contact:
+Discord: lOLORANGElol (User ID: 1420537388698046614)
