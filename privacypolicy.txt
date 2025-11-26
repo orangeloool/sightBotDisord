@@ -1,0 +1,175 @@
+Sight – Privacy Policy
+
+Last Updated: November 26, 2025
+Effective Date: November 26, 2025
+
+This Privacy Policy explains how Sight (the “Bot”) collects, uses, and stores data. Sight is created and operated by lOLORANGElol (Discord User ID: 1420537388698046614) (“Developer”, “We”, “Us”, or “Our”).
+By using Sight, you agree to this Privacy Policy.
+
+Because the Developer is based in Germany, all data handling is subject to the General Data Protection Regulation (GDPR) and applicable German privacy laws.
+
+1. Data We Collect
+
+Sight collects only the data necessary for its features and functionality.
+Depending on your server configuration and the commands/features you use, the Bot may collect or process:
+
+1.1 Message Data
+
+Message content
+
+Message author ID
+
+Channel ID
+
+Timestamps
+
+Edited/deleted message logs (if enabled by the server)
+
+Why we collect it:
+For features such as moderation, logging, keyword detection, automation, or other message-based functionality.
+
+1.2 Server Membership Data
+
+List of users in the server
+
+User IDs
+
+Nicknames
+
+Roles
+
+Joins/leaves
+
+Why:
+For role-based commands, permissions, moderation features, statistics, and server management tools.
+
+1.3 Presence & Activity Data
+
+Online/offline/idle/do-not-disturb status
+
+In-server activities or statuses provided by Discord
+
+Optional activity tracking if used in features (e.g., activity logs)
+
+Why:
+Used for activity-based features such as moderation alerts, automation, or logging tools.
+
+1.4 Server Configuration & Permission Data
+
+Role hierarchy
+
+Permission overwrites
+
+Changes to role permissions
+
+Server configuration settings specific to Sight
+
+Why:
+Needed to properly execute commands, enforce moderation rules, and maintain bot functionality.
+
+2. How We Use the Data
+
+Sight uses collected data to:
+
+Provide bot features such as moderation, logging, automation, or analytics
+
+Improve stability and performance
+
+Maintain server-specific configurations
+
+Ensure correct access control and permissions
+
+Prevent abuse and detect debugging issues
+
+Data is not used for:
+
+Selling to third parties
+
+Advertising
+
+Profiling outside the bot’s functional scope
+
+3. How Long We Keep Data
+
+Data may be stored only as long as required for functionality.
+
+Typical retention rules:
+
+Message logs: Stored only if the server enables logging; duration depends on server settings.
+
+Configuration data: Kept until the server removes the bot.
+
+Debug logs: Short-term storage only for error diagnosis.
+
+If the bot is removed from your server, associated configuration data may be deleted automatically.
+
+4. Data Sharing
+
+We do not sell, share, or disclose your data to any third-party organizations.
+
+Data may be shared only in these rare cases:
+
+Legal requirement (court order or lawful authority request in Germany/EU)
+
+Security situations (attacks, abuse reports, or data integrity incidents)
+
+Sight does not transfer data outside the EU unless required by Discord’s own infrastructure.
+
+5. Your Rights (GDPR)
+
+Because the Bot is operated under German and EU law, you have the following rights:
+
+Right to Access – Ask what data is stored or processed
+
+Right to Correction – Request correction of inaccurate data
+
+Right to Deletion – Request deletion of stored data where applicable
+
+Right to Limit Processing
+
+Right to Object
+
+Right to Data Portability
+
+To submit a request, contact the Developer via Discord.
+
+6. Security
+
+We use reasonable safeguards to protect stored data, including:
+
+Restricted access
+
+Limited retention
+
+No unnecessary data storage
+
+Secure hosting environments (where applicable)
+
+However, no system is perfectly secure. You use the Bot at your own risk.
+
+7. Children’s Privacy
+
+The Bot is intended for Discord users who meet Discord’s minimum age requirements (typically 13+).
+We do not knowingly collect data from children under this age.
+
+8. Third-Party Services
+
+Sight interacts with the Discord API, which is governed by:
+
+Discord’s Privacy Policy
+
+Discord’s Terms of Service
+
+Discord may independently collect or process your data.
+
+9. Changes to This Policy
+
+We may update this Privacy Policy at any time.
+Continued use of Sight after updates means you accept the new policy.
+
+10. Contact
+
+For privacy requests, questions, or concerns, contact:
+
+Developer: lOLORANGElol
+Discord User ID: 1420537388698046614
